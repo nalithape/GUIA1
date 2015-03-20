@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1426776181 source:c:\users\victor melendez\desktop\algoritmos\ejercicios\ejercicio3\main.cpp
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+893404800 c:\glut\include\gl\gl.h
+
+976692172 c:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+893404800 c:\glut\include\gl\glu.h
+	<GL/gl.h>
+
